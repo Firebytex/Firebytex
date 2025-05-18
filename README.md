@@ -9,7 +9,6 @@
   <h1>Stack</h1>
   
   <!-- Languages -->
-  </br>
   <h3>Languages</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
@@ -70,7 +69,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Storages -->
-  </br>
+  
   <h3>Storages</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
