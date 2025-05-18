@@ -142,6 +142,29 @@
     alt="Firebytex GitHub Stats">
   </br>
 </div>
+
+
+
+### ⚙️ &nbsp; GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/smir45">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
+</a>
+</p>
+
+
+###PRUEBA
+
+<!-- STATS -->
+<div align="center" width="100">
+  <h1>Statistic</h1>
+  <a href="https://github.com/Firebytex">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Firebytex&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" alt="Firebytex GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Firebytex&layout=compact&theme=vue-light" alt="Firebytex Top Languages"/>
+  </a>
+</div>
   
   </br>
 
