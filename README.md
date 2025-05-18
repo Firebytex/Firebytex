@@ -17,16 +17,6 @@
     alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
-    width="60px"
-    alt="Groovy">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    width="60px"
-    alt="Typescript">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     width="60px"
     alt="Javascript">
@@ -41,11 +31,6 @@
     width="60px"
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-    width="60px"
-    alt="sass">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Frameworks -->
   </br>
@@ -54,16 +39,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
     width="60px"
     alt="Spring (Spring-boot)">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
-    width="60px"
-    alt="Apache Kafka">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
-    width="60px"
-    alt="Gradle">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://logodix.com/logo/699172.png"
@@ -84,11 +59,6 @@
     alt="npm">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-    width="60px"
-    alt="Angular">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     width="60px"
     alt="React">
@@ -98,22 +68,7 @@
     width="60px"
     alt="Bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-    width="60px"
-    alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-plain-wordmark.svg"
-    width="60px"
-    alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg"
-    width="60px"
-    alt="Karma">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
+
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
