@@ -6,16 +6,11 @@
 
 <!-- GIF AND TEXT -->
 <div align="center" width="100">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" alt="Hollow Knight GIF"/>
-      </td>
-      <td style="border: none;">
-        Soy desarrollador
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" alt="Hollow Knight GIF"/>
+    <p style="margin: 0;">Estudiante de desarrollo de software apasionado por la tecnología y el desarrollo soluciones web,páginas web experiencia en múltiples tecnologías, muy flexible a la hora
+    de aprender a trabajar con grupos,actitud positiva para aprender y compartir conocimientos acerca del desarrollo,</p>
+  </div>
 </div>
 
 
