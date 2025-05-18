@@ -1,82 +1,271 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Alejandro's GitHub Profile</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <style>
-    body { background-color: #1a1a1a; color: #e5e7eb; font-family: 'Arial', sans-serif; }
-    .container { max-width: 800px; margin: 0 auto; padding: 20px; }
-    .icon { width: 40px; height: 40px; margin: 5px; }
-    .stats-img { max-width: 100%; height: auto; }
-    a { color: #60a5fa; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-  </style>
-</head>
-<body>
-  <div class="container mx-auto text-center">
-    <h1 class="text-4xl font-bold text-white mb-4">👋 ¡Hola, soy Alejandro!</h1>
-    <p class="text-lg mb-4">Entusiasta del <strong>Desarrollo Web Full-Stack</strong>, apasionado por crear aplicaciones dinámicas y amigables. Desde Colombia, exploro tecnologías para soluciones innovadoras.</p>
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Alejandro%20Martinez%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
 
-    <div class="flex justify-center space-x-4 mb-6">
-      <a href="https://twitter.com/tu-twitter" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/tu-twitter?logo=twitter&style=for-the-badge" alt="Seguir en Twitter">
-      </a>
-      <img src="https://komarev.com/ghpvc/?username=Firebytex&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Vistas del perfil">
-    </div>
+<!-- STACK -->
+<div align="center" width="100">
+  <h1>Stack</h1>
+  
+  <!-- Languages -->
+  </br>
+  <h3>Languages</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    width="60px"
+    alt="Java">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
+    width="60px"
+    alt="Groovy">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    width="60px"
+    alt="Typescript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="60px"
+    alt="Javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    width="60px"
+    alt="HTML5">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    width="60px"
+    alt="css3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+    width="60px"
+    alt="sass">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Frameworks -->
+  </br>
+  <h3>Frameworks</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+    width="60px"
+    alt="Spring (Spring-boot)">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
+    width="60px"
+    alt="Apache Kafka">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
+    width="60px"
+    alt="Gradle">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://logodix.com/logo/699172.png"
+    width="60px"
+    alt="Maven">
+    &nbsp;&nbsp;&nbsp;
 
-    <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Programando" class="mx-auto mb-6" style="width: 300px;">
+  </br>
 
-    <h2 class="text-2xl font-semibold mb-4">🌱 Sobre mí</h2>
-    <ul class="text-left list-disc list-inside mb-6">
-      <li>📚 Aprendiendo <strong>Desarrollo Web Full-Stack</strong> con frameworks modernos</li>
-      <li>💻 Experiencia en proyectos con Java, JavaScript y SQL</li>
-      <li>🌍 Ubicado en Colombia, abierto a oportunidades remotas</li>
-      <li>📫 Contáctame: <a href="mailto:tu.email@ejemplo.com">tu.email@ejemplo.com</a></li>
-    </ul>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    width="60px"
+    alt="NodeJS">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+    width="60px"
+    alt="npm">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
+    width="60px"
+    alt="Angular">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+    width="60px"
+    alt="React">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    width="60px"
+    alt="Bootstrap">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+    width="60px"
+    alt="Jasmine">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-plain-wordmark.svg"
+    width="60px"
+    alt="Jasmine">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg"
+    width="60px"
+    alt="Karma">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Storages -->
+  </br>
+  <h3>Storages</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+    width="60px"
+    alt="Oracle">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    width="60px"
+    alt="PostgreSQL">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
+    width="60px"
+    alt="Firebase">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Tools -->
+  </br>
+  <h3>Tools</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+    width="60px"
+    alt="Git">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
+    width="60px"
+    alt="Jenkins">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://static.wixstatic.com/media/778dda_9e3bec106a7f4c85b5526ddcf35226cf~mv2.png"
+    width="60px"
+    alt="Openshift">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"
+    width="60px"
+    alt="Kubernetes">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    width="60px"
+    alt="Docker">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  </br>
+  
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
+    width="60px"
+    alt="Jira">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg"
+    width="60px"
+    alt="Confluence">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
+    width="60px"
+    alt="Trello">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
+    width="60px"
+    alt="IntelliJ">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+    width="60px"
+    alt="VS Code">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+</div>
 
-    <h2 class="text-2xl font-semibold mb-4">🛠️ Lenguajes y herramientas</h2>
-    <div class="flex flex-wrap justify-center mb-6">
-      <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" class="icon"></a>
-      <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" class="icon"></a>
-      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" class="icon"></a>
-      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" class="icon"></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" class="icon"></a>
-      <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" class="icon"></a>
-      <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" class="icon"></a>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" class="icon"></a>
-      <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" class="icon"></a>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class="icon"></a>
-    </div>
+</br>
+</br>
+</br>
 
-    <h2 class="text-2xl font-semibold mb-4">📊 Mis estadísticas de GitHub</h2>
-    <div class="flex flex-col items-center space-y-4 mb-6">
-      <img src="https://github-readme-stats.vercel.app/api?username=Firebytex&show_icons=true&theme=dracula&locale=es" alt="Estadísticas de GitHub" class="stats-img">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Firebytex&show_icons=true&theme=dracula&locale=es&layout=compact" alt="Lenguajes principales" class="stats-img">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firebytex&theme=dracula&locale=es" alt="Racha de contribuciones" class="stats-img">
-    </div>
+<!-- STATS -->
+<div align="center" width="100">
+  <h1>Statistic</h1>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=Dum6o&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
+      alt="Dum6o GitHub Streak">
+  </br>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dum6o&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
+    alt="Dum6o GitHub Stats">
+  
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+      <img
+        src="https://stackoverflow-card.vercel.app/?userID=5272951&theme=stackoverflow-light"
+        alt="Dumbo StackOverflow">
+  </a>
+  </br>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
+    alt="Dum6o GitHub Awards">
+</div>
 
-    <h2 class="text-2xl font-semibold mb-4">🏆 Proyectos destacados</h2>
-    <div class="text-left mb-6">
-      <p><strong><a href="https://github.com/Firebytex/proyecto1">Nombre del Proyecto 1</a></strong><br>
-      Una aplicación web construida con React, Tailwind CSS y Node.js. [Breve descripción].<br>
-      ⭐ Estrellas: [Número] | 🍴 Forks: [Número]</p>
-      <p><strong><a href="https://github.com/Firebytex/proyecto2">Nombre del Proyecto 2</a></strong><br>
-      Un servicio backend usando Java Spring Boot y MySQL. [Breve descripción].<br>
-      ⭐ Estrellas: [Número] | 🍴 Forks: [Número]</p>
-    </div>
+<div align="center">
+  </br>
+  <a href="https://www.linkedin.com/in/edvardasjusius/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
+      alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/e2.edas/">
+    <img
+      src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
+      alt="LinkedIn">
+  </a>
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+    <img
+      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
+      alt="LinkedIn">
+  </a>
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+    <img
+      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
+      alt="LinkedIn">
+  </a>
 
-    <h2 class="text-2xl font-semibold mb-4">📬 Conéctate conmigo</h2>
-    <div class="flex justify-center space-x-4 mb-6">
-      <a href="https://linkedin.com/in/tu-linkedin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" class="icon"></a>
-      <a href="https://stackoverflow.com/users/tu-id-usuario" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" class="icon"></a>
-      <a href="https://instagram.com/tu-instagram" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" class="icon"></a>
-    </div>
+  </br>
 
-    <hr class="border-gray-600 mb-6">
-    <p class="text-sm"> <a href="https://github.com/Firebytex">Firebytex</a> | Última edición: 18/05/2025</p>
-    <p class="text-sm">⭐ ¿Te gusta mi trabajo? ¡Dale una estrella a mis repositorios! 🚀</p>
-  </div>
-</body>
-</html>
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
+    alt="Profile Views">
+</div>
+
+<!-- FOOTER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
+
+<!--
+USED:
+1. Markdown: https://github.github.com/gfm/
+2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
+3. Header/Footer: https://github.com/kyechan99/capsule-render
+4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
+5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
+6. Badges: https://shields.io
+-->
+
+------
+
+Credit: [Dum6o](https://github.com/Dum6o)
+
+Last Edited on: 04/04/2022
