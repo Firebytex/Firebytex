@@ -4,6 +4,21 @@
   alt="header"/>
 </div>
 
+<!-- GIF AND TEXT -->
+<div align="center" width="100">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" alt="Hollow Knight GIF"/>
+      </td>
+      <td style="border: none;">
+        Soy desarrollador
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <!-- STACK -->
 <div align="center" width="100">
   <h1>Stack</h1>
@@ -165,9 +180,11 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Firebytex&layout=compact&theme=vue-light" alt="Firebytex Top Languages"/>
   </a>
 </div>
+
+
+
   
   </br>
-
   </br>
  
 <!-- FOOTER -->
