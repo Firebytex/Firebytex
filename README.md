@@ -141,29 +141,6 @@
 
 <!-- STATS -->
 <!-- STATS -->
-<div align="center" width="100">
-  <h1>Statistic</h1>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Firebytex&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
-      alt="Firebytex GitHub Streak">
-  </br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Firebytex&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
-    alt="Firebytex GitHub Stats">
-  </br>
-</div>
-
-
-
-### ⚙️ &nbsp; GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/smir45">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
-</a>
-</p>
-
 
 ###PRUEBA
 
