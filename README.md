@@ -111,28 +111,22 @@
   </table>
 </div>
 
-<br>
-
-<!-- GITHUB STATS -->
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Firebytex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Firebytex&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  
-  <br><br>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firebytex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br>
+<br><br>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
+  <h2>📈 Contribution Activity</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Firebytex&custom_title=Contribution%20Graph&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <br>
+
+<!-- GITHUB STREAK -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firebytex&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+<br><br>
 
 <!-- FOOTER -->
 <div align="center">
