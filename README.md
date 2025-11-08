@@ -59,14 +59,7 @@ Mi enfoque está en:
   
 </div>
 
-<br>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Firebytex&custom_title=Contribution%20Graph&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<br>
+<br><br>
 
 <!-- FOOTER -->
 <div align="center">
