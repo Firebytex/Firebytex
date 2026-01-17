@@ -11,8 +11,8 @@
 
 Mi enfoque está en:
 
-- **Stack MERN** (MongoDB, Express, React, Node.js)
 - **Laravel** y **Tailwind CSS**
+- Experiencia en proyectos web reales
 - Desarrollo de soluciones web completas
 - Gestión de proyectos y trabajo en equipo
 
