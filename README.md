@@ -7,7 +7,7 @@
 
 # ¡Buenas! Soy Alejandro Martínez 👋
 
-**Desarrollador Full Stack** especializado en aplicaciones web modernas y escalables.
+**Desarrollador Backend** especializado en aplicaciones web modernas y escalables.
 
 Mi enfoque está en:
 
