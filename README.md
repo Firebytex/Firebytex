@@ -4,8 +4,7 @@
 ---
 
 ## 🚀 ¿Quién soy?
-
-**Backend Developer** Desarrollador apasionado, incansable que busca siempre la excelencia en sus proyectos
+Desarrollador de software apasionado, incansable que busca siempre la excelencia en sus proyectos
 ---
 
 ## 🧠 Habilidades técnicas
@@ -57,17 +56,6 @@
 
 ---
 
-## 📊 Actividad en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&theme=github_dark&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=github_dark" />
-</p>
-
----
-
-<p align="center">
-  ⭐ Gracias por visitar mi perfil
+  ⭐⭐⭐⭐⭐
 </p>
