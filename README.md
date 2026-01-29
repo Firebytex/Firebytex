@@ -14,12 +14,12 @@ Desarrollador de software apasionado, incansable que busca siempre la excelencia
   <img src="https://skillicons.dev/icons?i=laravel,tailwind,html,css,js" />
 </p>
 
+- Experiencia en creación de aplicaciones web end to end
+- Experiencia liderando equipos de desarrollo
 - Desarrollo de aplicaciones web con **Laravel**
 - Consumo y creación de **APIs REST**
 - Integración frontend–backend
 - Manejo de lógica de negocio y validaciones
-- Experiencia en creación de aplicaciones web end to end
-- Experiencia liderando equipos de desarrollo
 
 ---
 
