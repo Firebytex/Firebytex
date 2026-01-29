@@ -5,7 +5,7 @@
 
 ## 🚀 ¿Quién soy?
 
-**Backend Developer** Enfocado a
+**Backend Developer** Desarrollador apasionado, incansable que busca siempre la excelencia en sus proyectos
 ---
 
 ## 🧠 Habilidades técnicas
