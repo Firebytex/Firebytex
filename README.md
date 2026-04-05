@@ -28,16 +28,12 @@ Desarrollador de software apasionado, incansable que busca siempre la excelencia
   <img src="https://skillicons.dev/icons?i=react,astro,bootstrap" />
 </p>
 
-
-
 ---
 
 ## 🗄️ Bases de datos
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
-
 
 ---
 
@@ -46,12 +42,11 @@ Desarrollador de software apasionado, incansable que busca siempre la excelencia
   <img src="https://skillicons.dev/icons?i=git,postman,figma" />
 </p>
 
-
 ---
 
 ## 📚 Aprendiendo
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
 </p>
 
 ---
