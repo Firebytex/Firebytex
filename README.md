@@ -18,7 +18,7 @@ Actualmente desarrollo aplicaciones utilizando Laravel, diseñando APIs, impleme
 ## 🛠️ Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,alpinejs,tailwind,mysql,js,react,astro,git,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,alpinejs,tailwind,mysql,js,react,astro,git,postman" />
 </p>
 
 ---
